@@ -70,10 +70,10 @@ Compiling and Installing ConfrontaPDF
 
 Prerequisites:
 - C++ compiler
-- Qt 4 or Qt 5 libraries
-- the Poppler libraries (at least 0.20.1)
+- Qt 6 or Qt 5 libraries
+- the Poppler libraries (at least 26.01.0)
 
-Qt4 requires the Poppler's Qt 4 headers.
+Qt6 requires the Poppler's Qt 6 headers.
 Qt5 requires the Poppler's Qt 5 headers.
 
 Linux and BSD users should be able to get compiling from sources.
