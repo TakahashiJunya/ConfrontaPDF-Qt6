@@ -1,0 +1,8 @@
+# Qt Creator / Build files
+*.user
+build-*/
+*.o
+*.obj
+*.exe
+*.dll
+Makefile*

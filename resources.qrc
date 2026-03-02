@@ -1,0 +1,11 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+<file alias="icon.png">images/icon.png</file>
+<file alias="left.png">images/left.png</file>
+<file alias="right.png">images/right.png</file>
+<file>confrontapdf_cz.qm</file>
+<file>confrontapdf_de.qm</file>
+<file>confrontapdf_fr.qm</file>
+<file>help.html</file>
+</qresource>
+</RCC>
